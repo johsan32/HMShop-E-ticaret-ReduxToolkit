@@ -27,5 +27,5 @@ API url: 'https://apidojo-hm-hennes-mauritz-v1.p.rapidapi.com
 ## Önizleme
 ![Ekran Görüntüsü](screen.png)
 ![Ekran Görüntüsü](screen2.png)
-![GIF](gif.mpeg4)
+![GIF](gif.gif)
 # HMShop-E-ticaret-ReduxToolkit
